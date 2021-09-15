@@ -1,66 +1,114 @@
 [
     {
+        "id": 1,
         "title": "Insomniac",
-        "artist": "Green Day"
+        "artist": "Green Day",
+        "type": "Soul",
+        "year": 1987
     },
     {
+        "id": 2,
         "title": "American Idiot",
-        "artist": "Green Day"
+        "artist": "Green Day",
+        "type": "Soul",
+        "year": 1986
     },
     {
+        "id": 3,
         "title": "Conspiracy of One",
-        "artist": "Offspring"
+        "artist": "Offspring",
+        "type": "Soul",
+        "year": 1985
     },
     {
+        "id": 4,
         "title": "Dead Silience",
-        "artist": "Billy Talent"
+        "artist": "Billy Talent",
+        "type": "Soul",
+        "year": 1984
     },
     {
+        "id": 5,
         "title": "ANThology",
-        "artist": "Alien Ant Farm"
+        "artist": "Alien Ant Farm",
+        "type": "Soul",
+        "year": 1983
     },
     {
+        "id": 6,
         "title": "Enema of the State",
-        "artist": "Blink-182"
+        "artist": "Blink-182",
+        "type": "Soul",
+        "year": 1982
     },
     {
+        "id": 7,
         "title": "Pennybridge Pioneers",
-        "artist": "Milencolin"
+        "artist": "Milencolin",
+        "type": "Soul",
+        "year": 1981
     },
     {
+        "id": 8,
         "title": "Chuck",
-        "artist": "Sum 41"
+        "artist": "Sum 41",
+        "type": "Soul",
+        "year": 1980
     },
     {
+        "id": 9,
         "title": "The State",
-        "artist": "Nickelback"
+        "artist": "Nickelback",
+        "type": "Soul",
+        "year": 1979
     },
     {
+        "id": 10,
         "title": "Silver Side Up",
-        "artist": "Nickelback"
+        "artist": "Nickelback",
+        "type": "Soul",
+        "year": 1978
     },
     {
+        "id": 11,
         "title": "Fallen",
-        "artist": "Evenescence"
+        "artist": "Evenescence",
+        "type": "Soul",
+        "year": 1977
     },
     {
+        "id": 12,
         "title": "Scripted",
-        "artist": "Icon For Hire"
+        "artist": "Icon For Hire",
+        "type": "Soul",
+        "year": 1976
     },
     {
+        "id": 13,
         "title": "Icon For Hire",
-        "artist": "Icon For Hire"
+        "artist": "Icon For Hire",
+        "type": "Soul",
+        "year": 1987
     },
     {
+        "id": 14,
         "title": "You Can't Kill Us",
-        "artist": "Icon For Hire"
+        "artist": "Icon For Hire",
+        "type": "Soul",
+        "year": 1987
     },
     {
+        "id": 15,
         "title": "Sleeping With Ghosts",
-        "artist": "Placebo"
+        "artist": "Placebo",
+        "type": "Soul",
+        "year": 1987
     },
     {
+        "id": 16,
         "title": "Steal This Album",
-        "artist": "System of a Down"
+        "artist": "System of a Down",
+        "type": "Soul",
+        "year": 1987
     }
 ]

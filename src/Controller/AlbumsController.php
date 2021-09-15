@@ -11,5 +11,14 @@ class AlbumsController extends Controller
     {
         $albums =  json_decode(file_get_contents(__DIR__.'/../../data/albums.json'));
         return $this->render($response, 'default.html', ['albums' => $albums]);
+    }
+
+    public function details(Request $request, Response $response, $args=[]){
+        $albums = json_decode(file_get_contents(__DIR__.'/../../data/albums.json'), true);
+        
+        $key = array_search($args['id'], array_column($albums, 'id' ));
+        
+        return $this->render($response, 'details.html', ['album' => $albums[$key]]); 
     } 
-} 
+}
+
