@@ -1,0 +1,13 @@
+{{> header.html}}
+<h1>Albums</h1>
+
+<div class="albums">
+   {{#albums}}
+    <div>
+        <h2>{{titles}}</h2>
+        <p>{{artist}}</p>
+    </div>
+   {{/albums}}  
+</div>
+
+{{> footer.html}}
